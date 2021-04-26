@@ -4,11 +4,19 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 header {
-  padding: 156px 0 100px;
+  padding: 200px 0 200px;
+}
+
+h1 {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
 }
 
 section {
-  padding: 150px 0;
+  padding: 50px 0;
+}
+
+#tour h2 {
+  padding: 20px 0;
 }
 
 .swiper-slide {
@@ -25,6 +33,11 @@ section {
 
  .map-tour {
    margin-top: 10px;
+   border: 0;
+ }
+
+ figure {
+   margin: auto;
  }
 
 /* basic positioning */
